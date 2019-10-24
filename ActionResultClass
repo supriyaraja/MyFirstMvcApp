@@ -1,2 +1,7 @@
 ViewResult
 Partial view Result
+RedirectResult
+RedirectToRouteResult
+Json Result
+File Result
+Content Result
